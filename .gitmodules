@@ -1,0 +1,6 @@
+[submodule "React"]
+	path = React
+	url = https://github.com/Nea4321/ASSR_React.git
+[submodule "Spring"]
+	path = Spring
+	url = https://github.com/Nea4321/ASSR_Spring.git
